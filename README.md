@@ -2,4 +2,4 @@
 
 ## 1 | Description
 
-Smart contract stores a string variable. The string can then be retrieved. Simulates Hello World functionality. 
+Ethereum Smart Contract stores a string variable. The string can then be retrieved. Simulates Hello World functionality. 
